@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mirkomol
 - 👀 I’m interested in Ancient Egypt life, Pyramids and Natural Life as Crocodile and Snakes
-- 🌱 I’m currently learning Python and its' Web Framework Django
+- 🌱 I’m currently learning Python and its' Web Framework Django and Data Science
 - 💞️ I’m looking to collaborate on real Projects
 - 📫 How to reach me by Email
 
