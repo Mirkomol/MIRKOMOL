@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mirkamol
 - 👀 I’m interested in Ancient Egypt life, Pyramids and Natural Life as Crocodile and Snakes
-- 🌱 I’m currently working Python and its' Web Framework Django and Data Science
+- 🌱 I’m currently working SOFTWARE PROJECTS  and Data Science PROJECTS
 - 💞️ I’m looking to collaborate on real Projects
 - 📫 mirkamolrakhimov@gmail.com
 
