@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mirkomol
+- 👋 Hi, I’m @Mirkamol
 - 👀 I’m interested in Ancient Egypt life, Pyramids and Natural Life as Crocodile and Snakes
-- 🌱 I’m currently learning Python and its' Web Framework Django and Data Science
+- 🌱 I’m currently working Python and its' Web Framework Django and Data Science
 - 💞️ I’m looking to collaborate on real Projects
-- 📫 How to reach me by Email
+- 📫 mirkamolrakhimov@gmail.com
 
 <!---
 Mirkomol/Mirkomol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
